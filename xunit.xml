@@ -1,0 +1,9 @@
+<testsuite name="Mocha Tests" tests="7" failures="0" errors="0" skipped="0" timestamp="Mon, 24 Jan 2022 19:20:51 GMT" time="13.014">
+<testcase classname="Realizar cadastro de usu&#xE1;rio" name="Realizar cadastro com sucesso." time="4.787"/>
+<testcase classname="Realizar cadastro de usu&#xE1;rio" name="Realizar cadastro com nome incompleto." time="1.542"/>
+<testcase classname="Realizar cadastro de usu&#xE1;rio" name="Realizar cadastro com email incompleto." time="1.355"/>
+<testcase classname="Realizar cadastro de usu&#xE1;rio" name="Realizar cadastro com senha incompleta." time="1.529"/>
+<testcase classname="Realizar cadastro de usu&#xE1;rio" name="Realizar cadastro sem nome." time="1.137"/>
+<testcase classname="Realizar cadastro de usu&#xE1;rio" name="Realizar cadastro sem email." time="1.138"/>
+<testcase classname="Realizar cadastro de usu&#xE1;rio" name="Realizar cadastro sem senha." time="1.207"/>
+</testsuite>

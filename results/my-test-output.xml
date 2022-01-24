@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="11.6310" tests="7" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-01-24T19:23:58" tests="0" file="cypress/integration/cadastroUsuario.feature" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Realizar cadastro de usuário" timestamp="2022-01-24T19:23:58" tests="7" time="11.6310" failures="0">
+    <testcase name="Realizar cadastro de usuário Realizar cadastro com sucesso." time="3.6790" classname="Realizar cadastro com sucesso.">
+    </testcase>
+    <testcase name="Realizar cadastro de usuário Realizar cadastro com nome incompleto." time="1.5080" classname="Realizar cadastro com nome incompleto.">
+    </testcase>
+    <testcase name="Realizar cadastro de usuário Realizar cadastro com email incompleto." time="1.3740" classname="Realizar cadastro com email incompleto.">
+    </testcase>
+    <testcase name="Realizar cadastro de usuário Realizar cadastro com senha incompleta." time="1.4220" classname="Realizar cadastro com senha incompleta.">
+    </testcase>
+    <testcase name="Realizar cadastro de usuário Realizar cadastro sem nome." time="1.1880" classname="Realizar cadastro sem nome.">
+    </testcase>
+    <testcase name="Realizar cadastro de usuário Realizar cadastro sem email." time="1.1250" classname="Realizar cadastro sem email.">
+    </testcase>
+    <testcase name="Realizar cadastro de usuário Realizar cadastro sem senha." time="1.3350" classname="Realizar cadastro sem senha.">
+    </testcase>
+  </testsuite>
+</testsuites>
